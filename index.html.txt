@@ -1,1 +1,20 @@
-hello world!
+<!doctype html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>Моя личная страница</title>
+    </head>
+    <body> 
+      <left><h1>Кардонина Анастасия</h1></left>
+      <left><img alt="Это я" width="15%" src="rywqTw6oCIw.jpg"></left>
+      <br/>
+      <h2>Контакты:</h2>
+      Страничка <a href=https://vk.com/id73661010>vkontakte</a>
+      <br/>
+      <a href=https://github.com/username>GitHub</a>
+      <br/>
+      Телефон: <b>+79991155875</b>
+      <br/>
+      E-mail: <i>aakardonina@edu.hse.ru</i>
+    </body>
+  </html>
