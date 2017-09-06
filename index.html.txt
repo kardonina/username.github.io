@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
   <html>
     <head>
       <meta charset="utf-8">
@@ -11,7 +11,7 @@
       <h2>Контакты:</h2>
       Страничка <a href=https://vk.com/id73661010>vkontakte</a>
       <br/>
-      <a href=https://github.com/username>GitHub</a>
+      <a href=https://github.com/kardonina>GitHub</a>
       <br/>
       Телефон: <b>+79991155875</b>
       <br/>
